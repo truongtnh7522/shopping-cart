@@ -1,6 +1,13 @@
-#Guide to run the project
-- git clone https://github.com/truongtnh7522/shopping-cart.git
-- Open to project by vscode
-- Open project in terminal
-- Enter the command rails server
-- Go to a web browser and enter: localhost:3000
+# Guide to Run the Project
+
+Follow the steps below to run the project:
+
+1. Clone the repository: https://github.com/truongtnh7522/shopping-cart.git
+
+2. Open the project in VS Code.
+
+3. Open the project in the terminal.
+
+4. Run the command `rails server` to start the server.
+
+5. Go to a web browser and enter the URL `localhost:3000`.
