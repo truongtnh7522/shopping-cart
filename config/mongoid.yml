@@ -1,0 +1,15 @@
+# development:
+#   clients:
+#     default:
+#       uri: mongodb://localhost:27017/shopping_cart
+#   options:
+#     raise_not_found_error: false
+
+development:
+  clients:
+    default:
+      uri: mongodb+srv://truong:Huyturong7522.@shopping-cart.szejmx6.mongodb.net/shopping_cart
+      options:
+        server_selection_timeout: 5
+        app_name: your_app_name
+
