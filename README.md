@@ -1,9 +1,9 @@
 # Technologies used in the project
-**Ruby On Rails**
-**MongoDB Atlas**
-**MongoDB Atlas**
-**Jquery**
-**HTML, CSS, JS**
+`**Ruby On Rails**`
+`**MongoDB Atlas**`
+`**MongoDB Atlas**`
+`**Jquery**`
+`**HTML, CSS, JS**`
 
 # Guide to Run the Project
 
